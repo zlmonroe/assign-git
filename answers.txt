@@ -1,0 +1,8 @@
+Î What is a gitignore file and what should it include for a Java project?
+
+Î What does fast-forward in Git mean?
+
+Î Why should you have diferent branches?
+
+Î In a project how many remote Git repositories do you usually have?
+
